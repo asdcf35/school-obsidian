@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "52b3b10f885cfcad",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fcd04f954aee187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b25e103ce2597ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecaadd89fc1668d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "light microscopy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cd71964abbf7e2c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70997defcc94dbae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/Cambridge-International-AS-_-A-Level-Mary-Jones-bio-4.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ab7867c83543d6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d83edebfc2239eeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138803f737739cc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40f1da08ee0d33df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5373818ab4a2dfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f114c5f83a961ae",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "173b77b127b56e3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c97eba97a9ca18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26e1688441695fcf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2634ce962f9ef813",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PDFs/Cambridge-International-AS-_-A-Level-Mary-Jones-bio-4.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2639d7a80f071e01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PDFs/Cambridge-International-AS-_-A-Level-Mary-Jones-bio-4.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc3ba46cb8d02c26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PDFs/Cambridge-International-AS-_-A-Level-Mary-Jones-bio-4.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
+    }
+  },
+  "active": "70997defcc94dbae",
+  "lastOpenFiles": [
+    "light microscopy.md",
+    "PDFs/Cambridge-International-AS-_-A-Level-Mary-Jones-bio-4.pdf",
+    "2024-03-08.md",
+    "Cell Structure.md",
+    "Cell.md",
+    "Microscopy.md",
+    "microscope.png",
+    "e-matrix.md",
+    "Tasks Plugin - Review and check your Statuses 2024-03-08 11-28-19.md",
+    "Tasks Plugin - Review and check your Statuses 2024-03-08 11-28-20.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "PDFs/ASLevel Subject Content.pdf",
+    "Untitled.md",
+    "create a link.md",
+    "Untitled.canvas",
+    "How to take notes.md",
+    "Welcome.md",
+    "Highlights for asSubject.md",
+    "test1.md",
+    "PDFs/Cambridge-International-AS-_-A-Level-Mary-Jones-bio-4.pdf.crdownload",
+    "2024-03-04.md",
+    "PDFs/asSubject.docx",
+    "asSubject.md",
+    "Generated/asSubject.md",
+    "PDFs",
+    "Generated/images",
+    "Generated",
+    "554607-2022-2024-syllabus.pdf",
+    "asSubject",
+    "554607-2022-2024-syllabus.pdf.crdownload"
+  ]
+}

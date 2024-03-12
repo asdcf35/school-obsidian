@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"4cab553d474da1ad","type":"text","text":"","x":-132,"y":-32,"width":250,"height":60},
+		{"id":"6153caadf0162027","type":"text","text":"Cell Structure","x":-132,"y":-32,"width":250,"height":60},
+		{"id":"8e67296ae7a792d7","type":"text","text":"light microscopy","x":-880,"y":280,"width":250,"height":60},
+		{"id":"3039d10e3ad521d6","type":"text","text":"electron microscopy","x":-610,"y":280,"width":250,"height":60},
+		{"id":"d52c5b0167f62700","type":"text","text":"basic principles","x":-340,"y":280,"width":250,"height":60},
+		{"id":"b6990dc67c5ee467","type":"text","text":"animal","x":310,"y":285,"width":250,"height":60},
+		{"id":"d95ec08467e21c28","type":"text","text":"viruses","x":580,"y":285,"width":250,"height":60},
+		{"id":"fa5e210dab1c3a18","type":"text","text":"plant","x":850,"y":285,"width":250,"height":60},
+		{"id":"a727c8210c157df8","type":"text","text":"* bacteria(prokaryotes)","x":1120,"y":285,"width":250,"height":60},
+		{"id":"9cf78dca2b50033b","type":"text","text":"cell theory","x":40,"y":285,"width":250,"height":60},
+		{"id":"e75d99542b1de988","type":"text","text":"Cell","x":580,"y":122,"width":250,"height":50},
+		{"id":"b71c5d3584633865","type":"text","text":"Microscopy\n","x":-610,"y":117,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"ece1f24daf1902bf","fromNode":"4cab553d474da1ad","fromSide":"bottom","toNode":"b71c5d3584633865","toSide":"top"},
+		{"id":"f4f66904f63d45b4","fromNode":"6153caadf0162027","fromSide":"bottom","toNode":"e75d99542b1de988","toSide":"top"},
+		{"id":"3e8673386d837e4d","fromNode":"e75d99542b1de988","fromSide":"bottom","toNode":"9cf78dca2b50033b","toSide":"top"},
+		{"id":"42adc70a21016171","fromNode":"e75d99542b1de988","fromSide":"bottom","toNode":"b6990dc67c5ee467","toSide":"top"},
+		{"id":"009e5a4105561344","fromNode":"e75d99542b1de988","fromSide":"bottom","toNode":"fa5e210dab1c3a18","toSide":"top"},
+		{"id":"38df399853858a7e","fromNode":"e75d99542b1de988","fromSide":"bottom","toNode":"a727c8210c157df8","toSide":"top"},
+		{"id":"8695b88ec4ee3edb","fromNode":"e75d99542b1de988","fromSide":"bottom","toNode":"d95ec08467e21c28","toSide":"top"},
+		{"id":"4561603adda0b5b9","fromNode":"b71c5d3584633865","fromSide":"bottom","toNode":"8e67296ae7a792d7","toSide":"top"},
+		{"id":"d87b2d610b6700dc","fromNode":"b71c5d3584633865","fromSide":"bottom","toNode":"3039d10e3ad521d6","toSide":"top"},
+		{"id":"a11394d0ba9b32e4","fromNode":"b71c5d3584633865","fromSide":"bottom","toNode":"d52c5b0167f62700","toSide":"top"}
+	]
+}

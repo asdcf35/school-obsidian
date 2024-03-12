@@ -1,0 +1,16 @@
+{
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe",
+  "sanctum@@heading-outline": "#",
+  "minimal-style@@pdf-page-style": "pdf-seamless-on",
+  "minimal-advanced@@styled-scrollbars": true,
+  "minimal-advanced@@cursor": "default",
+  "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
+  "Editor@@h2-divider-on": false,
+  "Editor@@collapse-icon-restore": false,
+  "Editor@@line-hover-indicator": false,
+  "Editor@@seamless-embeds": true,
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-light@@card-layout-open-light": true,
+  "minimal-style@@pdf-invert-dark": true,
+  "minimal-style@@bold-weight": 700
+}
