@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "173b77b127b56e3a",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Cambridge-International-AS-_-A-Level-Mary-Jones-bio-4.pdf",
+                "file": "light microscopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Cambridge-International-AS-_-A-Level-Mary-Jones-bio-4.pdf",
+                "file": "light microscopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/Cambridge-International-AS-_-A-Level-Mary-Jones-bio-4.pdf"
+                "file": "light microscopy.md"
               }
             }
           }
@@ -185,10 +186,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "70997defcc94dbae",
+  "active": "ecaadd89fc1668d1",
   "lastOpenFiles": [
-    "light microscopy.md",
     "PDFs/Cambridge-International-AS-_-A-Level-Mary-Jones-bio-4.pdf",
+    "light microscopy.md",
     "2024-03-08.md",
     "Cell Structure.md",
     "Cell.md",
