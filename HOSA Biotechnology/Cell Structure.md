@@ -38,25 +38,23 @@
 
 
 * [[Microscopy]]
-	* light microscopy
-		* cytology
-		* structure
-	* electron microscopy
-		* electrons
-		* transmission
-		* scanning electron microscope
-	* magnification
-	* resolution
-	* EM spectrum
-	* units of measurements
+	* types of microscopy
+	* [[light microscopy]]
+	* [[electron microscopy]]
+* magnification
+* resolution
+* units of measurements
+
 * [[Cell]]
 	* cell theory
-	* animal
-		* ultrastructure
-		* structure of organelles
-	* plant
-		* ultrastructure
-		* structure of organelles
-	* bacteria(prokaryotes)
+	* eukaryotes
+		* animal
+			* ultrastructure
+			* structure of organelles
+		* plant
+			* ultrastructure
+			* structure of organelles
+	* prokaryotes
+		* bacteria
 	* viruses
 		* how they are not living

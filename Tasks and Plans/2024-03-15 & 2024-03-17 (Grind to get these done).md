@@ -11,17 +11,9 @@
 - [ ] Finish Chapter 2
 - [ ] Work on Studying Chemistry
 - [ ] Work on Chapter 3
-- [ ] Work on Studying Biology
-
-
 ## Plans
-- [I] These are how we are going to accomplish our goals for today
-### Chapter
-1. Make a Pre-Study
-2. Take notes in each section
-	1. Connect with other subjects(Aim for 1/2)
-	2. Make questions or find questions that aim for the specific topic
-	3. Make questions or find questions that aim for a connection of a specific topic
+2. Make questions or find questions that aim for the specific topic
+3. Make questions or find questions that aim for a connection of a specific topic
 
 **The Collect Stage** 
 1. Make the note pages

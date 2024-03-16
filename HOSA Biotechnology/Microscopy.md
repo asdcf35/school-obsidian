@@ -1,21 +1,16 @@
 ## The Topic Structure
-
-* light microscopy
-	* cytology
-	* structure
-	* EM spectrum
-* electron microscopy
-	* electrons
-	* transmission
-	* scanning electron microscope
+* types of microscopy
+	* [[light microscopy]]
+	* [[electron microscopy]]
 * magnification
 * resolution
 * units of measurements
 
-## Actual Topic Study
+## Connect Stage
 
 - [I] This is where the notes for the topic go
-
+* microscope - device used to magnify images
+	* creates an image of the specimen being examined
 * Magnification - how many times larger image is compared to real size of object
 	* $\text{magnification} = \frac{\text{observed size of the image}}{\text{actual size}}$ or $M=\frac{I}{A}$
 		* M = magnification
@@ -32,6 +27,11 @@
 * unit of measurements
 	* nanometers are used,  because they are that small
 
-## Relation to other topics
 
-- [I] this is where I will able to form my questions
+## Clarify Stage
+
+Microscopes are things that are used to magnify images. They usually work by sending radiation(light or electrons) to the lens. There are two types of microscopes: light and electrons. 
+
+But before we can get into the differences and the items, let's look at some common topics:
+* Magnification - this is how much you can zoom in(by a factor)
+* resolution - ability to distinguish between 2 things
